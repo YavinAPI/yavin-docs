@@ -1,3 +1,3 @@
 # yavin
 Payment API
-https://www.yavin.com/
+https://api.yavin.com/docs
